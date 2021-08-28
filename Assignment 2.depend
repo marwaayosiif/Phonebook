@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618888613 source:g:\sbme\embedded\labs\assignment 2\assignment 2\main.c
+	"PhoneBook.h"
+
+1618889353 g:\sbme\embedded\labs\assignment 2\assignment 2\phonebook.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
